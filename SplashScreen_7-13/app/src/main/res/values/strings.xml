@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">seven</string>
+
+    <!-- Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_start">Lats Get Started</string>
+
+    <!-- All Categories Menu names -->
+    <string name="expand_all">Expand All</string>
+    <string name="car_rent">Car Rent</string>
+    <string name="all_shops">All Shops</string>
+
+    <!--TODO: Retailer Panel Strings-->
+    <!--General String-->
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+
+    <string name="retailer_heading">Grow\nYour Business</string>
+    <string name="retailer_tag_line">We will help you to business using online services</string>
+    <string name="create_account">Create\nAccount</string>
+    <string name="how_we_work">How we Work?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+    <!-- String for Dashboard -->
+
+    <!--Categories-->
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="banks">Banks</string>
+    <string name="airports">Airports</string>
+
+    <!-- Title and descriptions-->
+
+    <string name="featured_location">All Featured Location</string>
+    <string name="featured_location_description">All the locations that are featured and have the top demand in town!</string>
+    <string name="most_viewed_locations">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search...</string>
+    <string name="logo_name">Get A Way</string>
+
+    <!-- General Menu names-->
+    <string name="home">Home</string>
+    <string name="search">SEARCH</string>
+    <string name="all_categories">ALL CATEGORIES</string>
+    <string name="add_missing_place">ADD MISSING PLACE</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_full_name">Full Name</string>
+    <string name="field_username_icon">Username</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_phone_number">Phone Number</string>
+    <string name="create_account1">Create Account</string>
+
+    <!--otp screen-->
+    <string name="otp_code_text">Co\nde</string>
+    <string name="otp_verification_text">Verification</string>
+    <string name="otp_description_text">Enter one time password sent on\n+923332225522</string>
+    <string name="verify_code">Verify Code</string>
+
+    <!--forget password-->
+    <string name="forget_password_details">Provide your account\'s email for which you want to reset your password!</string>
+    <string name="make_selection_details">Select Which contact details should we use to reset your password?</string>
+    <string name="make_selection">MAKE SELECTION</string>
+    <string name="via_sms">via sms:</string>
+
+</resources>
