@@ -1,0 +1,17 @@
+
+<resources>
+
+    <!--Base application them-->
+    <style name="seven" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <!--Customize your them here-->
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--Menu Style-->
+    <style name="navigationThem">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/colorAccent</item>
+    </style>
+</resources>
